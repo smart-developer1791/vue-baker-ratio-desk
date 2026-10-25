@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "name": "A small table of morning rolls",
+  "flour": "Bread flour",
+  "target": 1234,
+  "portions": 6,
+  "ingredients": [
+    {
+      "id": "water",
+      "name": "Water",
+      "ratio": 675
+    },
+    {
+      "id": "salt",
+      "name": "Salt",
+      "ratio": 20
+    },
+    {
+      "id": "oil",
+      "name": "Olive oil",
+      "ratio": 35
+    }
+  ],
+  "provenance": {
+    "project": "vue-baker-ratio-desk",
+    "author": "CodeSculptor",
+    "marker": "BR-3B2E9499"
+  }
+}
